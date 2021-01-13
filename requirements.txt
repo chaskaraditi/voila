@@ -101,7 +101,6 @@ pyrsistent==0.15.5
 pyserial==3.4
 pytest==6.2.1
 python-dateutil==2.8.1
-python-debian===0.1.36ubuntu1
 pytz==2020.5
 PyYAML==5.3.1
 pyzmq==20.0.0
