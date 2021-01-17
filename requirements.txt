@@ -56,7 +56,6 @@ jupyter-server==1.2.1
 jupyterlab-pygments==0.1.2
 jupyterlab-widgets==1.0.0
 keyring==18.0.1
-language-selector==0.1
 launchpadlib==1.10.13
 lazr.restfulclient==0.14.2
 lazr.uri==1.0.3
@@ -134,8 +133,6 @@ tornado==6.1
 tqdm==4.56.0
 traitlets==5.0.5
 Twisted==18.9.0
-ubuntu-advantage-tools==20.3
-ufw==0.36
 unattended-upgrades==0.1
 urllib3==1.25.8
 virtualenv==20.0.17
