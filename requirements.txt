@@ -119,7 +119,6 @@ simplejson==3.16.0
 six==1.14.0
 smart-open==4.1.0
 sniffio==1.2.0
-sos==4.0
 spacy==2.3.5
 srsly==1.0.5
 ssh-import-id==5.10
