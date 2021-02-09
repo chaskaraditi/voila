@@ -1,140 +1,940 @@
-To trust AI, make it explainable
-A trustworthy AI system is a good AI system
-For AI to be considered trustworthy, it must be available when it is supposed to be available and must generate consistent and reliable outputs
-Trustworthy requires explainability, accountability, being unbiassed, resilient and reliable
-AI agents need to be trustworthy, accountable and reliable
-To ensure that AI will have good opportunities, people should evaluate that if AI will meet explainable requirements
-For AI to be trustworthy, it must be open for inspection, and its decisions must be fully explainable
-To increase trust on an AI system, we should strive to make the interfaces explainable, accountable, unbiased, resilient and reliable
-With increasing penchant for Explainable AI, consumers will be more encouraged to trust in advanced AI applications
-Trustworthy AI systems must be FEARED Fair Explainable Accountable Resilient Explicit and Diverse
-AI system must be able to generate outputs that are explainable, accountable, unbiased, resilient, transparent and reliable in order to earn customers trust and satisfaction
-The trustworthiness of AI systems is largely dependent on its predictability and how explainable the results it yields are. Thus, good AI opportunities are explainable, but not all explainable AI opportunities are good AI opportunities.
-Explainable AI has come to stay, everybody wants an interpretable system. Why the AI system makes a decision must be clearly stated
-Response Complexity and Response Time are critical concepts in building explainable AI
-Good AI systems should be easily explainable
-An important factor is trust. Making AI models trustworthy is the only way people will adopt them. A common answer to what makes AI trustworthy here was accountability which was interesting as AI are machines, and a part of accountability is taking responsibility for the outcome of something
-AI should be explainable what it means is it whatever actions it does, those actions should be trustworthy and in favor of humans
-A reliable AI system should include 5 characteristics explainable, accountable, unbiased, resilient, reliable
-Make sure that your AI system is explainable and complemented by others for it to be trustworthy
-Interlinking legal and ethical notions, i.e. explainability or trustworthy, to the concept of a good business idea
-Given that AI systems allow to predict outcomes, businesses need to consider AIs as agents within the company. There exists a possibility to react and pivot from an idea situation given a AI prediction
-AI helps organization to predict crucial outcomes, prescribe advice preventive measures, decide to implement the best action plan and also helps to monitor the same based on multiple inputs which requires human intelligence. Thus, AI acts as an agent for organization
-AI can potentially predict the outcome of an event through self learning
-A good AI opportunity is the one add value in terms of scalability, easiness, rapid development and trust worthy
-It is important to validate our AI opportunity before starting to implement it
-A good AI opportunity is supposed to do good and make money concurrently
-The possibilities of using AI are endless, it is therefore advisable that every organization system seeks to embed it into its working process. To start this off, it is worthy understand the working system of the unit to be accessed
-AI can be applied to every sector to enable new possibilities and efficiencies
-AI systems are the future and for it to be a 100% effective, we must trust that it will be used for good causes. Just like internet in its early stage was feared but now one can imagine life without it, AI also is a very great system.
-Make AI trustworthy, lack of trust is hindering its adoption
-AI is still not that much trustworthy because at some place somewhere the data is saving and accessing by humans. which can be hacked or misused. So AI needs to be more trustworthy.
-We can use AI system to work on simple humanly possible work to ensure that it is trustworthy
-Companies are well equipped with AI but need to build trust in their systems
-AI is just the agent, the outcome of using AI and whether we get to trust the system or not depends on how we use them.
-An AI system needs to be trustworthy, otherwise people will fear it and will not use it.
-To solve a problem, it is important to use AI that is trusted by people.
-To gain the most out of AI agents we must ensure it is trustworthy
-The use of AI agents as employment will resonate more with countries that lack the required software tools
-The dependency on machines to solve human problems will cause lack of participation from educational facilities, since our job is now seen as logging in data
-While working or developing a good AI opportunities First, define the problem statement which focus towards customers need and fulfilling organisation objective, then define solution ,select the solution and validate that it is good AI opportunity or not and at the end exploit the opportunity
-Take it easy on losing job, for AI is just taking the laboring and logical analysis positions, those jobs which need ethics, or we can say, humanity will still be undertaken by human for a long time
-Ideas coexist with opportunities, but ideas are not the same as opportunities, and obviously opportunities are less than ideas. Similarly, there is a big gap between opportunities and good opportunities, not to mention good AI opportunities. Good AI opportunities must be clear about what customers want, which is the ultimate goal and requirement.
-A good AI opportunity is one which provides value proposition to the customer organization in terms of benefits, costs and growth.
-Users and customers must be involved in AI applications
-A good AI opportunity can be found among options by elimination when the options are ranked by the importance to the customer and value gained
-Trust and ethics are fundamental to any AI solutions for acceptability by the users
-Incorporating immersive AI into the customer experience to boost engagement shifting the focus from technology to business opportunity
-AI is denoted as an agent for organisations. AI Agents are far more effective and efficient processing information than the humans
-AI needs more than technical skills such as statistics or programming, it needs ethics and values and some of your sales abilities
-AI tries to solve problems. So, we could use it with any type issues we have inside institutions. The know how depends on the doer
-The best opportunities for AI are when it helps to improve the customers lifestyles and company decisions-making
-Using AI integrates the supply chain of organisations	
-AI makes important in increasing cost, used efficiently and making understandable for the users
-Customer satisfaction is paramount in determining good AI opportunities
-Wondering how to recognize a good AI opportunity? look for where customers get less value for money
-In order to drive an AI system to create value, it is required that the benefited user receives a clear and meaningful output and explanation. Users will feel discouraged to trust a complex detailed system.
-AI improves the decision-making processes of individuals and organisations, making them more efficient
-Artificial Intelligence systems are trusted for their positive impact to users
-It is important for the user to understand the AI system to trust it
-AI is an agent to company, organisation and entity
-AI agents provide many advantages to an organisation than humans do not
-Giving priority to costumer s interest by focusing on customers needs and satisfaction
-A good AI opportunity can be an important customer need which current solution is not enough
-Good opportunity should be oriented toward a real need and problem of the customer beneficiary
-AI is required to maintain and sustain businesses and institutions around us
-AI has role to play in cybersecurity
-AI must be focused on a problem that is growing and is of importance to the customer
-AI agents in an organisation have greater ability to process and store information than humans do
-AI systems creates an avenue to harness potential opportunities that are low in customer satisfaction and are of high importance to customers
-AI enterprises should clearly explain to users the places involving users privacy. If the user is willing to provide the data for testing, it should give the user a clear guarantee and let the user know that the data will be permanently deleted after it is used up
-A good AI system will make customers feel that what they have currently is not enough
-An AI system is distinct because 1. AI is about computer systems that perform tasks that normally require human intelligence 2. Must trust AI systems to drive positive benefits to our lives, communities, companies, and countries 3.AI is an agent for organizations
-In order to trust AI, we need to understand, in order to understand we need to search for opportunities and solution in our communities. We need to work hard to make AI trustworthy because this will make its adoption easier in our organizations
-The most valuable companies in the world use AI, start-ups and entrepreneurs must use AI if they want to grow fast
-Entrepreneurs are important in aiding AI for development of ideas and motivations.
-AI can give a huge competitive advantage to start-up companies and should be carefully considered
-It is possible to cultivate a community where AI is a trusted agent
-AI plays an important role in company and communityvalue creation
-AI provides power to regime and build communities by building its trust
-AI has many benefits; however, we do not trust it. For us to trust AI, we must understand it and learn how to control it to create value for us and our communities
-Enlighten different companies, universities, communities about the importance of AI
-Need to select an institution in my community to become an AI leader
-Must trust AI systems to drive positive benefits to our lives, communities, companies, and countries
-A symbiotic relationship exists between AI and entrepreneurs it all depends on how we take it
-While AI systems are dependant on data that may be used for declared or undeclared plans, we better trust AI to benefit our lives, communities and companies
-The use of AI in my community should reduce complexities
-The community in which AI systems are used must trust its ability to drive positive benefits to their lives
-AI system must be trusted in order to drive the positive benefits to our communities, companies, and countries.
-Create AI opportunities that make an impact in communities
-Humans as well as AI agents contribute to adding value to communities
-AI agents makes us dependant on them
-We need to understand AI to share this reality and need to improve our community and that will only happen when the machine trusts us and we trust the machines
-Must trust AI system to drive positive benefits to our lives, communities, companies, and countries, it can also work as an agent for organizations.
-Entrepreneurs use AI because they need them as agents
-AI is distinct because it can perform many tasks that normally require human intelligence
-Value added by a solution through AI could be an opportunity for making money and become and entrepreneur
-Entrepreneurs need AI
-The ability to create value for communities is a key feature of a good AI opportunity
-To have a good opportunity, four key components are necessary: 1) Address a problem that is important, growing, widespread, urgent and manifests in diverse ways, 2) What you sell should have an all-encompassing benefit, 3) Lead a versatile and efficient team, and 4) Champion the opportunity with unwavering confidence
-A good opportunity is obtained when you have a defined problem, the knowledge about what you sell, a well-built efficient team that can lead to success and the way you champion it
-People are more comfortable with a product, brand or system they can trust, hence trust becomes the first commodity a company should aim at selling before the actual product, once trust is established
-A good opportunity can be designed
-Artificial Intelligence systems can help perforate organizational boundaries and allow them launch into new realms of value creations
-AI agents in organizations makes decision more algorithmic less fuzzy , dispassionate less emotional , more logical less intuitive reduce information asymmetries among human parties who are part of a transaction
-Artificial Intelligence is not emotional, It has reasons why making a decision which are logical, rationale and algorithmic
-If we want to have a solution for an argument we should make an algorithm for it and all of a sudden it makes clear
-Thanks to Artificial Intelligence, a program can compute tasks that normally require human intelligence. Hence, a program using Artificial Intelligence is like have an additional worker agent in the company community that makes decisions more algorithmic, dispassionate, and more logical than an average human
-It is called narrow artificial intelligence because it is real and it is here today. This is not comic book stuff. We started talking about artificial intelligence in 1956, but the problem was that all we could do was talk about it. It has not been until recently that we have been able to USE it to do good things!
-Majority of the implementation of artificial intelligence in our environments are Weak Narrow Artificial Intelligence
-AI have two kind of classes 1. General artificial intelligence which are comparable to or exceeds human intelligence and slower adoption. 2. Narrow artificial intelligence, this kind of AI only can accomplish a limited set of goals but have faster adoption
-Two AI classes General Narrow. 1 General comparable or exceeds human intelligence. Usually slower to adopt 2 Narrow accomplishes specific tasks e.g. recommendations, predict sales etc . Faster to adopt
-You start with a big problem but you have to narrow it down!!
-Program will focus on narrow artificial intelligence applications
-AI as a topic started in 1956. Tools Technologies made available recently only have helped in using Artificial Intelligence at work
-AI should be able to have ability to understand, decide, plan, communicate, critique on topics, have a reasonable response to every action
-Remember to consider the 7 listed factors to create stakeholder value
-By deploying skilled AI agents, the system could predict, prescribe, react, and perform actions that require human intelligence
-AI increases dominance and political power of developed countries
-AI has the potential to provide precision production e.g. in agriculture, manufacturing etc.
-The application of AI in agriculture improves a nation’s food security
-AI plays a very key role in any nation’s prosperity
-AI is a source of power technologically and geopolitically
-AI will certainly help small scale industries to compete at international levels by updating them technologically
-It is a good idea to validate any developed AI solution to ensure that it is a good AI opportunity before implementation
-AI could increase the differences between developed and developing countries if the latter do not adapt quickly to change
-External and internal resources should be combined to create high value. Resources include assets, processes and priorities
-Assets, processes and priorities do not exist in isolation
-Artificial intelligence does not waste resources
-AI can be employed in universities from infrastructure up to the running of academic programs and imparting knowledge for better results
-It is important to identify good opportunities to deploy AI, not just opportunities. This will allow us to put our effort and resources in something worthy and not lose time
-Entrepreneur continuously creates value for people by combining resources in a novel way. Some of the company’s value remains with them some goes to resource owner then they attract other resources which increase the company’s value. Therefore, creating more value for the company is an iterative process
-AI can address opportunities that could not be addressed before and it is capable of high-stake decisions in the most efficient way
-AI helps us tackle the problems which otherwise could not be addressed. It helps in evolving technologies cost effectively and efficiently and it is a very important element of high-stake decision processes.
-An idea or opportunity does not necessarily imply good AI opportunity, a good AI opportunity entails well defined problem to be addressed in an efficient and effective manner to have long lasting and far reaching benefits.
-Not only all AI legal implications you should also follow ethical implications i.e., having concern about security, hacking etc
-A Good AI Opportunity needs to have a genuine problem to be addressed that offers a huge impact
-In developing a good AI opportunity, it is better to focus first on achieving short-term goals and then gradually climb focus on achieving long-term goals as your sphere expands. So, you can set both goals and as you achieve the first, the second is gradually being achieved
-Your AI needs your trust, in other words, your concise design paves way to scenarios in which the human intelligence required for certain tasks are achieved more effectively and accurately
-How to check performance of AI trustworthiness with conforming basic parameter, i.e., explainable, accountable, unbiased, reliable, and resilient
-AI courses require us to work hard to learn and explore the logic and mysteries, no one can casually achieve success, perseverance is rewarding
+Ecosystem mindset is key to competitiveness but note that the competition is ecosystem vs ecosystem and not company vs company
+There are three types of ecosystems 1) Business 2) Innovation 3) Platform, we need to find position in an ecosystem that creates value and to create value we need to use the right mindset
+Companies in ecosystems create significant value, companies with traditional mindsets using old business models do not
+One should invest in those assets and capabilities that are rare, valuable, and hard for competitors to imitate
+For an organization which is ready for human-machine collaboration 1) leadership is critical 2) building trust in artificial intelligence systems and insights 3) reskilling the workforce to ensure complementarity and 4) address employee's concerns,
+Ability to mimic human intelligence is what makes artificial intelligence applications useful
+It is not possible to create value without the right mindset
+The world now is interdependent
+Old hierarchy-based business models do not work (even if the business schools are still teaching them)
+Competition now is about ecosystems
+Complex problems require complex solutions, is not possible to solve them with lazy thinking
+Artificial intelligence business applications can be viewed as an ecosystem
+Artificial intelligence specific open platforms are also critical ecosystem components
+Ecosystem management relates to customer interaction and understanding customer needs
+Using the artificial intelligence tools well and building the ecosystem can help firms understand customer pain points and provide profound solutions
+Awareness of the implications of transitioning from existing system to a new AI-based system is necessary for management
+The growth is not always internal, companies are acquiring startups in artificial intelligence field
+To create value that is significant, you need to be part of the ecosystem
+Ecosystem provides standard or ground requirement for autonomous organisations to produce complex interdependent products or services
+Ecosystem harness creativity and innovation to allow members to reach customers and lower cost of productions by identifying talented personnel to design, develop, deploy, and train Artificial Intelligence technologies
+Business ecosystem involves the construction technologies to design, develop, deploy, and scale artificial intelligence applications
+Innovation ecosystem supports leverage networks by promoting collaboration between industry, government, academia, nationality, regionally and globally
+Artificial Intelligence transformation involves building a business case for source of values which match technological solutions to real problems to validate the source of value is good artificial intelligence opportunity
+Artificial intelligence is the present, its no longer the future
+You must build your ecosystem if you want to lead in artificial intelligence
+Doing something to add value, you must work with others not alone
+Mindset is essential to work in artificial intelligence
+Artificial intelligence helps us to learn faster than we can ever imagine possible
+In artificial intelligence ecosystems, solutions to complex problems are achieved through layers of abstractions with the right mindsets
+There is shift in paradigm of artificial intelligence from company versus company to an ecosystem versus ecosystem
+A good ecosystem model is one that entails multiple players with greater diversity and strength leading to mind dependence
+Innovation ecosystem gives opportunities for Universities, Research Institutes, and Industries to work together to innovate
+Ecosystems can be categorised into business, innovation, and platform ecosystems
+People in a micro organisation are expected to earn power, differentiate roles and be part of the merchandise, financial, information, value, and risk dimensions
+A right mindset is what we need to create value
+Companies in ecosystems create significant value
+Ecosystem gives an organisation freedom of operations
+A company needs the three types of ecosystem (Business, innovation, and platform ecosystems) to create value.
+A good ecosystem brings to the company's door better customers,
+The promise of artificial intelligence is beyond just creating an algorithm. It deals with complex problems to create value for an organization.
+Meaningful and important value is created in an organization or community by artificial intelligence through Ecosystem.
+Artificial intelligence and Ecosystem models bring global paradigm shift in creating value of a company.
+To improve the economy, we need to pass artificial intelligence and the ecosystem mindset to the youth
+Creating and utilizing models that have significant number of players is necessary in Ecosystem
+Individuals from network of organizations that creates rules of engagement in ecosystem are called keystones
+The three most important characteristics of an ecosystem are establishing network of organizations, creating focal value propositions and competition/cooperation
+Ecosystems liberate people from hierarchical governance/way of thinking. It therefore promises to eliminate monopoly in business and giving everyone freedom
+Artificial intelligence ecosystem ensures building an algorithm, deploying, and scaling it
+Simple problems have some define steps. But if those steps are difficult to simply define then the problem becomes complex
+Organizations that are ecosystem inclined, creates right rules for people to interface for value creation.
+Creating value with artificial intelligence is a complex problem, so a careful and accurate conceptualization of the problem is crucial
+Today\'s problems are a lot more complex, so old business models will not create value, change is necessary
+Building and participating in an ecosystem is what drives significant results and value
+Ecosystems are free from hierarchical way of thinking when creating value
+There are three types of ecosystems: business, innovation, and platform ecosystems and all are required to deliver value
+For an ecosystem to thrive, there must be a keystone to set the rules and a coordination mechanism to define decision power and responsibilities
+Ecosystems are about autonomy in that participants each have a role that corresponds to their expertise and make decisions independently
+Rapid value creation in modern industries is achieved by the collaboration of entities that work in well-defined and orchestrated ecosystems, which can be divided in three types: business, innovation, and platform ecosystems
+An ecosystem provides a specialized space where organizations with different value propositions abide certain rules and roles, leveraging their capabilities via effective collaboration and complementarity in their offers
+Every organization must evaluate the compatibility of their offer and purpose with an ecosystem before considering joining it, in order to make sure that new customers will be accessed, valuable external capabilities are provided and, in general, profit will be made
+Complementarity between members in an ecosystem is divided in three types: generic, where there is no need for governance; unique, where a dependence exists between certain members; and supermodular, where the presence of a member raises the value of other's offerings
+An organization makes profit from participation in an ecosystem if it gains power to influence other members in the ecosystem, acquires a differentiated role that shifts other member's expectations to match the organization strengths, and positions itself in the value flow to customers.
+The business setup has changed from organizational to ecosystem mindset.
+Each ecosystem needs good coordination mechanism setting proper participation criteria, standards, and rules, and differentiating roles of members.
+The ecosystem provides for a more stable and resilient supply chain and structure.
+Ecosystem-enhanced value proposition requires the identification of different types of complementors towards a successful collaborative innovation.
+Creating value collectively leads to ecosystem relationships strengthening the network effects, which - as a result - increases the partners\' ability to acquire value.
+A good opportunity involves problems that are complex, not related to just one but interdependent areas, and not able to solve with the traditional business model we have nowadays.
+To achieve great and right things you need to be part of an ecosystem, have organization relationships network, and create focalized value propositions deliverables.
+If you want to create an artificial intelligence leader, answer: What is your support network? what value are you going to create? Where are you going to compete/collaborate?
+To operate in an ecosystem is important and necessary to enable collaboration of university and industry
+Use the right mindset to create value using ecosystem models
+To achieve significant results, we should participate in or build ecosystems
+Benefits of an ecosystem are: Access, Accelerate, Create, Stable, Harness, and Address
+Examples of Innovation ecosystems: Support edge-cloud integration, support artificial intelligence innovation, National initiatives that drive AI, increase adoption of artificial intelligence in smartphones and wearables, use artificial intelligence to develop regional economies
+Examples of an AI business ecosystem includes the Build, deploy, and scale artificial intelligence applications ecosystem
+Good fit between your company's purpose for existing and the ecosystem's purpose for existing makes an ecosystem a good ecosystem for your company
+Connectionist techniques are very efficient in areas such as image recognition or machine translation
+We cannot use simple solutions to solve complex problem
+To create value for cities, companies, and universities, we need to shift to the right mindset and search for solutions that build on right mindset.
+A distinct ecosystem enables organizations to make decisions about design, price, delivery, and improvements without a hierarchical governance
+A good ecosystem can shape mor and better artificial intelligence opportunities for companies and collaborate with others to share or reshape an industry
+There are three types of ecosystem: business, innovation, and platform
+Competition is now between ecosystems, not between the companies
+Every organization is now a part of an ecosystem. No one is isolated.
+We need to change the mindset about the ecosystem, the ideas we are recently working on is not the big which it should be. We should enhance the limit of solving a complex problem in more efficient and effective manner by using artificial intelligence algos. We should not take the easy problems to solve.
+We have three types of ecosystem that are business ecosystem in this the companies that individuals affects the companies or suppliers, innovation ecosystem in this new ideas for value proportion are integrated with the ecosystem leaders, platform ecosystem in this the Ai data is provided.
+You should choose an ecosystem which is good for you and can implement by using Ai. Make a blueprint for your idea including complementarities, earn by using artificial intelligence create value and update canvas.
+Create an artificial intelligence ecosystem by using cloud, edge computing, IoT devices and a good internet connection. The cloud computing will give you access to operate your company from any point of location to any point of location and storing data safely. IoT devices will help you operate and easy the daily work.
+Transform you ecosystem to artificial intelligence ecosystem by finding out the business case which have high value, find out the data which is useful for the value creation, modify according to the need, modify it using ai. Find out the organization ready to buy your implemented idea or need for your idea.
+Mindset is a very important aspect in creating values for company. Again, just creating or developing algorithms is not enough for bringing about changes. Applying it to an ecosystem to create value is what is very important. artificial intelligence has no meaning unless it is used to build ecosystems for value creation
+Old business model includes choosing a company with high entry barriers, working on product to attract customers, and getting an edge over the competitors by using hard to avail resources. As opposed to this, the ecosystem model calls for as many players as possible, and their interaction is governed by the rules of the ecosystem.
+An ecosystem can access a huge number of partners, skills, expertise, and knowledge; accelerate the learning process, create strong barriers for entry and address the human needs and desires. It can also stabilise the structures, create autonomy, harness, and address the social and environmental challenges
+Three kinds of ecosystem exist: Business. Innovation and platform, each having its own domain
+No company/organisation can exist as a single entity or in a vacuum, but is always part of a larger ecosystem, which ensures its growth, functioning and value creation
+A lot of opportunities can be utilised if one develops expertise in a particular domain/area and uses it to integrate companies into ecosystems.
+Build a new ecosystem mindset to change the way the company runs, creating a more effective structure.
+Apply artificial intelligence to high-end manufacturing field and build intelligent production system and production line. While improving the production efficiency and quality of traditional manufacturing industry, we should promote the supply side reform of high-end supply field.
+Universities, scientific research institutes and government agencies should work together to provide technical, financial, talent and policy support for the development of artificial intelligence, and help to form the formation and development of artificial intelligence ecosystem in various fields of society
+Artificial intelligence should be integrated with cloud computing, Internet of things, big data, 5g technology and other cutting-edge high-tech fields to form a complete and effective artificial intelligence ecosystem relying on technology and serving the real economy
+Artificial intelligence algorithm is based on many data, which requires enterprises to cooperate with the government to obtain data by legal means
+The right mindset is the backbone of value creation
+The success of any artificial intelligence driven organisation depends on its ecosystem
+For artificial intelligence company to be okay, all those that constitute the ecosystem must cooperate
+An ecosystem must be structured in such a way as to aid company artificial intelligence development
+The companies that created value rapidly have unique ecosystem mindset is also a tool for solving community or city problems.
+Integrate your company to an ecosystem
+The independence and resilience to change makes an ecosystem a better system to work in
+The key to coordination in an ecosystem is agreement among power, roles, and flow
+In an ecosystem, there is no superior or inferior company but a keystone company
+Merchandise, finances, information, value, and risk are the factors that affect every company of an ecosystem
+Evaluate to know if an ecosystem meets up your company's standard before integrating with it,
+A value blueprint gives an insight of the kind of ecosystem suitable for your company
+A product adds value when it is use cases is well defined
+Human-machine interface will solve more problems than human-human interface. Think artificial intelligence
+Ecosystem mindset is a set of abstractions required to solve a complex problem.
+Ecosystem mindset is needed to create value in our communities, cities, and companies to solve complex problem.
+To achieve significant results, we should participate in an ecosystem.
+Ecosystem provides the rules and keystones enforces rules of engagement to collaborate with people from our remote source.
+Ecosystem is a network of organisation involved in the delivery of value proposition through collaboration and competition.
+Ecosystems transform use cases into good artificial intelligence opportunities to create value
+In the era of rapid technological change, it is not the competition between companies but the competition between ecosystems.
+Ecosystems allow organizations to make efficient decisions, with standards and flexibility.
+Agreement among organizations in the ecosystem should consider power, differentiated roles, flows
+Business ecosystem, innovation ecosystem and platform ecosystem play different roles for an idea or a product
+Building an artificial intelligence ecosystem requires a lot of expertise, such as machine learning approaches, hardware
+A solution with high value comes from the treatment of any problem as a complex problem.
+artificial intelligence companies must have control of all the parts that compose their ecosystem.
+The roles are well defined, and each entity fulfills a specific task in an organization whose mechanisms are coordinated.
+The components of an ecosystem must be balanced to keep organizations stable.
+Innovation ecosystems include organizations whose aggregate value solves a complex problem using a different approach which is usually analyzed.
+Create or look for the best ecosystem when trying to make a difference.
+Ecosystems allow for a closer more involved business model with less of a hierarchical approach.
+When creating or developing an ecosystem ensure it will create the maximum value for you / the project
+Think of the big picture of how this will improve lives. Be ambitious in your goals
+It is important for an ecosystem to all have the same goals and aspirations
+To benefit from AI, you first need to change your mindset.
+In contrast to traditional mindsets and old business models, companies in ecosystems create significant value.
+The ecosystem provides organizations and individuals the freedom to make their own decisions.
+The coordination mechanism in an ecosystem is the agreement between organizations about roles.
+There are 3 types of ecosystems: busyness, innovation, and platform.
+Every company, which is an artificial intelligence leader, has an ecosystem.
+artificial intelligence Will Face Some Ethical Challenges
+Technology Isolation Is Heating Up Between the World's Largest Economic Nations
+Cultivating artificial intelligence and using it to create actionable insights
+3. Several qualification criteria to determine high-risk artificial intelligence applications
+artificial intelligence models will enhance software, back-office functions
+artificial intelligence does not change the business rules, but the procedures to implement it.
+Business ecosystem has a keystone force for the focal value, while innovation ecosystem must not have one.
+Entrepreneurs are leaders of the focal value for customers and all the rest can come from a healthy ecosystem.
+Hierarchy is based on the meritocracy in the ecosystem-driven era.
+Diversify your ecosystems for more granular resource needs to enhance the differentiation of your CVP.
+You can use artificial intelligence to add value to companies, but with the right mindset.
+Innovation ecosystem, like others, could be used to developed regional economies.
+A typical use case could be transformed into an artificial intelligence opportunity
+An identified artificial intelligence opportunity should define a process that follows artificial intelligence transformation.
+Define an ecosystem that would include business, innovation and platforms ecosystems that would drive the companies
+Use artificial intelligence solutions for complex problems.
+The new ecosystem that comprises of companies has no limit of players.
+With the right mindset, conceptualize the entire process and start by abstracting the first phase.
+To create value, we need the right mindset
+Ecosystem mindset is great because of relentless pace of technology progress
+Players interact according to the rules the ecosystem keystone shapes
+A distinct ecosystem enables organizations to make decisions about design, price, delivery, and improvements without a hierarchical governance
+The ecosystem keystone is the lead firm, and it shapes the process of ecosystem development
+Your goal must not be to create an algorithm or learn how to code, but to create value.
+You cannot solve a complex problem with an easy solution. A different mindset is needed.
+You can solve simple problems by looking at an instance of the problem and solving it. For complex problems you need to look at the bigger picture, think abstractly and find a solution that generalizes the problems and adds value for enough people.
+Old business models of producing a unique product in an industry with a high entry barrier no longer work - nowadays you must collaborate with other companies in an ecosystem and deliver a part of the complex solution the end user needs.
+To be a part of an ecosystem you must specialize in a differentiable part of the complex solution and deliver high-quality services.
+A right mindset is a very good tool for creating a core value in an ecosystem
+Ecosystem model is better than old business model
+There are thorough competition, cooperation, and involvement of key players in an ecosystem
+Ecosystem approach addresses both social, economic, and environmental problems of organisation
+Positive mindset helps to create a competitive and saleable product for an ecosystem
+Businesses in an ecosystem cannot strive on a one-man approach
+To be Valuable in an ecosystem you must cultivate a system of continuously communicating value
+Power in an Ecosystem is earned
+Doing business in an ecosystem begins with the reengineering of our minds and a continuous system of learning
+The Ecosystem business model starts with a clear focus then collaborate with experts to get to the details and finally compete with others.
+In the past, we were not a globalized society. On the contrary, we are currently connected around the world. For instance, what happens in the US or China has effects in almost every country in the world.
+Change your mind from the hierarchy model of the old times into the new structure. The new times work in ecosystems where the internal and external elements of the system are related.
+In the hierarchy model, you have no power, decisions are made by others. In the ecosystem model, you have enough power to make your own decisions; Furthermore, ecosystems function in cooperation with each other.
+Artificial intelligence does not make people lose their jobs. What causes it is that we create companies that cannot survive the transformation of society.
+To create an innovation ecosystem, we must work together between universities and industries. An example of this is China, and now China is one of the leaders of Artificial Intelligence worldwide.
+A monopolistic market is not so bad as it seems. It can be your opportunity to offer the market something new.
+The five steps that are keys to build an artificial intelligence project that adds value are: create a business case, identify the data you have access and build a data funnel, identify what and who you need, integrate and optimize processes at work, finally, your organization is ready for human-machine collaboration. (ppt 66-71)
+Companies in ecosystems, rather than old business models create significant value
+The three types of ecosystems are business, innovation, and platform ecosystems
+A company which does not fit its ecosystem well will not make money
+To create significant value with AI, you must identify the data you need to do so
+To create value, you must always match technological solutions to real world problems
+To create value, we need to work as if the world is connected
+When solving complex problems groups and ecosystems take precedence over individuals
+Modularizing a complex problem is key to abstracting out the unnecessary and ultimately solving it.
+Ecosystems provide us with the rules of engagement to collaborate with people and create value
+transforming existing use cases into good artificial intelligence opportunities involves adding value to what already exists
+Ecosystems provide organizations and individuals freedom to make decisions about their products and services.
+To create value in ecosystems you need to use solutions for complex problem
+Company strategy is no longer the focus, your participation and strategy in the ecosystem is the focus
+Only in an ecosystem can you create significant value
+We play together to get the inputs the output is where we compete
+Keystone organization sets the rules to shape the ecosystem
+No organization exists in a vacuum
+A healthy business ecosystem must be innovation, sustainable and demonstrate a good degree of self-governance.
+To leverage an existing ecosystem, entrepreneurs must understand the ecosystem as this helps positions them for effective value exchange
+To become an actor in an ecosystem and stay relevant in it, newcomer companies must differentiate themselves
+Beyond figuring out the right problem to solve with AI, it is important the solution adds value to the ecosystems being engaged
+Beyond technology, entrepreneurs should develop an eco-system mindset - establishing new connections and partnership to solve real problems that add value to the ecosystem.
+To gain competitive advantage companies need to utilize and be part of the ecosystem.
+An ecosystem provides freedom to make significant decision enabling creative innovations.
+For artificial intelligence to make change, the company need to harness its power, role played and the flows to achieve the goals.
+Companies need to have a good ecosystem to be able to scale early and rapidly.
+The ecosystem helps to boost learning experiences as it allows the company to gain knowledge from wider network.
+A right mindset is required to be able to cope and solve today's complex problems.,
+New business models require to have a multidisciplinary team to have a rich ecosystem.
+Ecosystems allow customers to enjoy innovative products/services based on new technology
+There are three main types of ecosystems: Business, Innovation and Platform. These help within each other to build, support and supply distinct parts of an artificial intelligence value program
+Today's competition is not based in company-company but to ecosystem - ecosystem,
+Associations are not removing a motivation from their customer made data. It is difficult for the grounds that individuals are unusual social animals. We have a set-up of things and estimations to engage the pattern of clever responsibility. Our establishment joins driving open-source parts to engage robotized figure.
+The grand ambition of theorists studying ecology and evolution is to discover the logical and mathematical rules driving the world\'s biodiversity at every level from genetic diversity within species to differences between populations, communities, and ecosystems.
+Theoretical work has incited a mind-boggling catch of theories, each having non-clear repercussions for various hypotheses. For instance, the progressing affirmation that genetic assortment incorporates a great deal of common and spatial stochasticity powers speculative people inherited characteristics to consider abiotic and biotic factors normally held for natural framework science. This interconnectedness may require hypothetical researchers to embrace new procedures adjusted to reason about huge arrangements of hypotheses. Mathematicians have tackled this issue by utilizing formal dialects dependent on the rationale to oversee hypotheses.
+Hypotheses in environment and development are not numerical hypotheses, they include vulnerability. Ongoing work in Artificial Intelligence in connecting rationale and likelihood hypothesis offers the occasion to assemble rich information bases that join the rationale\'s capacity to speak to complex numerical thoughts with likelihood hypothesis\' capacity to display vulnerability. We depict these half breed dialects and investigate how they could be utilized to manufacture a bound together information base of hypotheses for nature and advancement.
+Companies in ecosystems create significant value, not companies with traditional mindsets
+New ecosystem models make as many players as possible interact according to the base requirements.
+Three types of ecosystems are business ecosystem, innovation ecosystem and platform ecosystem.
+Become part of ecosystems to overcome the challenges artificial intelligence faces.
+Transforming organizations into Al organizations should build trust in artificial intelligence systems and insights.
+To create value, companies need to have ecosystem mindset. Companies with traditional mindset do not create significant value
+Use ecosystem model to solve complex problems and create value
+Hierarchical structures do no longer work given the changes in the environment that the world is going through
+Ecosystem players interact according to the ruler the ecosystem keystone shapes
+Each company that leads artificial intelligence anchors its own specialized ecosystem
+Artificial intelligence is all about mindset change that uses abstraction to solve complex problems
+Artificial intelligence is not all about developing an algorithm but creating value in an ecosystem
+Traditional business techniques use simple methods to solves problems. New business models require a mindset shift using the right abstraction to create value.  
+Technology is advancing at a rapid speed and its impact is affecting all aspects of life. People are needed to realise the impact of technology
+It is no longer about company versus company but ecosystem vs ecosystem. For success, a company must exist and participate in an ecosystem
+A business model that is isolated from the ecosystem has less chances of success. A lot of partners in an ecosystem come together to solve a problem with a focal value proposition. One cannot do it all, you must be part of a network of organizations.
+Now its rivalry between ecosystem vs. ecosystem, not company vs. company, e.g., Apple (iOS) vs. Samsung (Android)
+We need to concentrate on ideas that either has a high entry barrier or offer a unique product or service that nobody else offers.
+For an ecosystem to work, one needs to understand that one cannot work alone; it is about collective value creation and sets a rule on how to compete and cooperate!
+Many companies or organizations are letting go of a lot of people due to optimizing an inefficient system with technology innovation like artificial intelligence or Machine learning.   
+There are three types of ecosystems; business ecosystem, which establishes B2B or B2C ecosystem and value propositions; secondly, innovation ecosystems usually lead by universities creating ecosystems leaders and platform ecosystems with different agents working around it!   
+To create value, an ecosystem mindset is required
+Ecosystem mindset is key to competitiveness
+Participation in or building ecosystem(s) helps to achieve great results
+Ecosystem mindset provides relentless pace of technology progress which can b characterized as fast. Many, broad, origin is everywhere, and unexpected
+Players in an ecosystem interact according to the rules the ecosystem keystone shapes
+Ecosystem involves delivery of a focal value proposition like product, solution, service, technology, etc.
+Ecosystem is distinct because standards or base requirements shape the hierarchy, roles, and flows among organizations for a value proposition to materialize
+Keystone set participation criteria, standards, and rules
+Keystone ties in complements and make complementors abide by the rules
+There are three types of ecosystem: Business ecosystem, Innovation ecosystem and Platform ecosystem
+Innovation ecosystem uses artificial intelligence to leverage assets, leverage networks and overcome domestic challenges
+To engage in ecosystem(s), the following is required: Be a part of ecosystems that are good for you; Select mode to operate; Construct value blueprint; Manage complementarities; and use artificial intelligence to create value
+Address creating value with artificial intelligence in a community as a complex problem
+The types of ecosystem morph into one another as time goes on
+Create an ecosystem where complementarities exist for production/consumption of goods.
+Ecosystem mindset is the right mindset
+Technology is moving at a very fast pace and this requires the ecosystem mindset
+The world is quite interconnected and should facilitate interconnected ecosystems
+It is hard or not possible to take advantage of opportunities if there has not been a change of mindset before.
+Value is not created by building companies, instead it is created by building ecosystems.
+An ecosystem should be functional to create value, in that way a mechanism of coordination is necessary to organize all the organizations involved in the ecosystem.
+Do not ever be part of an ecosystem that customers are not part of.
+Difficult customers are the key, those that are not easy to satisfy but give feedback continuously.
+Process for artificial intelligence transformation Business includes case for source of value, data funnel, What and who you need, Workflow that captures value from AI, Organization ready for human machine collaboration
+Basic building blocks of an intelligent system includes Machine vision, Language analysis, Document summarization, Process automation
+Ecosystem mindset is key to competitiveness
+There are three types of ecosystems like business, innovation, and platform ecosystems
+Ecosystem elements are Focal organization, Network, Focal value proposition, orchestrator, formal mechanism for coordinator, hierarchy for differentiated roles and flows
+We need to change our mindset if we want to generate value
+Only a small part are the algorithms when we want to generate value.
+Today's ecosystem models bring many more advantages than the old business models.,
+Having a good data architecture can help you to develop better artificial intelligence solutions.
+Being a part of and understanding how you are engaging in an ecosystem will help you take better advantage of its benefits.
+You will not be able to create value using artificial intelligence unless you are prepared to solve complex problems.
+You cannot survive neither achieve significant results if you do not participate in an ecosystem.
+An ecosystem is distinct when it allows you to make decisions about design, price, and improvements on your own without a hierarchical governance.
+Artificial intelligence is not at fault for people losing their jobs, the organizational structure is the reason for this.
+The ecosystem provides the freedom that we can make our own decisions.
+Anybody who is leading in artificial intelligence has an ecosystem - you will need to figure out how to make value in this ecosystem.
+Every local community should have a local activity with artificial intelligence innovation.
+You need to be able to take use cases and translate them in good artificial intelligence opportunities.
+Existing space is a type of use-case where you are transforming value.
+Identify the people to work with you to help you create the value that will make you money.
+Algorithms are very important, however if you cannot create value with these algorithms, you are nothing.
+To get value from AI, you must be part of an ecosystem
+artificial intelligence is good for solving complex problems.
+You need to create abstractions to be able to solve complex problems.
+You require a change of mindset to be able to create value for AI.
+The old hierarchical business governance model does not work for innovation ecosystems.
+An understanding of what a complex problem is and how it can be solved using the right mindset
+The importance and need for a critical abstract thinking in creating value in the community with the right mindset
+Understanding the benefits of an ecosystem to deliver focal value through access, accelerate, create, harness and better addressing of social and environmental challenges
+An insight on how to have a distinct ecosystem based on hierarchical governance, guided by some set of rules required to deliver the focal value
+The role of a keystone in setting participation criteria, standard and rules that can shape the process of ecosystem development for focal value delivery
+To solve a problem, the right mindset is required, eliminate all unnecessary notions and assumptions.
+Artificial intelligence problems are complex problems that require intensive approach logical reasoning and complex solutions.
+Solving artificial intelligence problem is much more than creating algorithms rather creating value.
+Ecosystem involves a network of organizations that provide value through competition and cooperation.
+Ecosystem is a network of organization that come together to get something done
+Ecosystem was invented about 12 years ago
+Right mindset is needed for value creation
+Creation of a network is needed in anything you are doing
+Ecosystem is not about technology
+Ecosystem makes you to be an autonomous person
+Competition, cooperation, and collaboration are the three rules of engagement
+Collaborate and compete with people to create value for your community
+Business, innovation, and platform are the three types of ecosystems
+Mindset is a set of abstractions, assumptions, methods, or notions that we use to solve complex problems
+Creating value for cities, companies and universities is a complex problem
+The keystone, also known as lead firm or ecosystem captain, set participation criteria, standards, and rules for its ecosystem
+No organization exists in a vacuum, it is always part of an ecosystem
+Universities, companies, and humans needs all the three types of ecosystems
+Ecosystem mindset is a key to competitiveness
+Alibaba invested in several ecosystems
+Chinese company developed an artificial-intelligence platform that can be used to build a city
+Find an ecosystem with which you feel comfortable and add value to its members
+Ecosystem provides an individual with tremendous amount of freedom
+To make money, you need to know who to interact with
+An individual needs to know how to be part of an ecosystem
+Ecosystem can scale to be a global system
+To be part of an ecosystem, you need to select the mode to operate
+Ecosystem helps access customers
+Ecosystem provides the mechanism to create huge amount of value as well as autonomy
+Creating value for companies, cities and universities is a complex problem but the way to do it is by having the right mindset
+The right mindset to creating value for complex organisations is the ecosystem mindset due to its relentless pace of technology progress, keen competition, and attainable significant results
+Ecosystem models is an involving model which ensures all participants are active in the value creation process
+Ecosystem is distinct due to its ability to enable organisations to make decision about almost everything and as well, set attainable standards
+The main elements of an ecosystem are focal organisation, network, value proposition, flows, etc.
+The tendency of ecological environment can affect the value to a certain extent. In today\'s society, more and more resources and values need to be attached to the environment to realize, so we need to understand the status quo and critical point of ecological environment, so as to pave the way for us to better create value.
+How to use the ecological environment to create value for companies, enterprises and society is the issue we need to focus on. At present, we need to find the most suitable ecological tendency and further collect, and study ecological resources based on existing data to expand and improve our ecological database.
+Ecological civilization society pays attention to applying ecological innovation to business model, which is the mainstream direction of current business. We should grasp relevant resources and information in a timely manner to lay a solid foundation for the further development of ecological innovative enterprises.
+Transforming the ecosystem into a model and applying it to the business model is very beneficial for us to clarify our thinking. The new model will be clearer and more understandable and more perfect, so this is the mainstream issue we focus on.
+The benefits of ecosystems are countless, and they play an important role in creating value and stabilizing societies. Therefore, we need to not only protect the ecological environment, but also make full use of these benefits to benefit us.
+Transforming use cases into good artificial intelligence opportunities is a way to engage in an ecosystem
+Collaborating with other firms can help shape or reshape an industry
+Edge computing is a technology advance in which computation and storage utilities can be brought to edge devices rather than relying on a central location
+Artificial intelligence is ubiquitous in the roadmaps of next-generation technology initiatives.
+There are typically three types of ecosystems: 1. Business ecosystem 2. Innovation ecosystem 3. Platform ecosystem
+A mindset change is needed to create value using ecosystems
+An ecosystem mindset is needed due to the relentless pace of technology & required for significant results
+New ecosystems models: Get the maximum players involved
+Where I am adding value, how will I complete and how will I cooperate
+Identify complementors: All the who is for your projects
+Old business models could invest in those assets and capabilities that are rare, valuable, and hard for competitors to imitate.
+Enables organizations to make decisions about design, price delivery, and improvements without a hierarchical government.
+Manage complementarities that include unique, generic and supermodular in ecosystem
+Ecosystem mindset is needed to create value.
+Business ecosystem including build, deploy, and scale artificial intelligence applications
+A mindset is very essential to create a value for some complex problems
+The change in mindset must use solutions for complex problems, create value using ecosystems and models
+An ecosystem is organizations that come together to do something through competition and cooperation
+There are mainly three types of ecosystems namely: Business ecosystem, Innovation ecosystem and a platform ecosystem.
+Amazon's Alexa and Facebook'ss Home Automation system are platform ecosystems
+With a good ecosystem we can access more customers, shape better artificial intelligence opportunities, access the external capabilities, technologies, and leverage to scale rapidly and securely
+Transforming the use cases of an ecosystem into good opportunities is an important step
+A use case is a situation in which the product or service can be potentially used.
+Use cases can be existing, new, and innovative and me must use them all.
+There have been various technology advances in terms of artificial intelligence ecosystems such as the IOT devices, 5G technologies, Cloud computing and Edge computing
+Every organization today is a part of an ecosystem
+The mindset of an ecosystem is abstraction, assumptions, methods, on the way we use it to solve problem
+Ecosystem mindset is the right mindset to use because it is relentless pace, competition is between ecosystems not between companies, and build ecosystems to achieve the significant results
+Identifying the problem is the most important thing for the artificial intelligence because a solution needs to be created for it
+After creating the ecosystem, you must engage with it to have the best of it. For example, transform the case to the system and use it for artificial intelligence opportunities, select the perfect fit mod for the problem, and use the artificial intelligence canvas for updating the ecosystem engagement.
+The process of the artificial intelligence transformation start with the business case for source of value then data funnel after that what and who then workflow at the end find out if the organization is ready for the transformation.
+Mindset changes enhance the optimum application of artificial intelligence for creating local value
+Complex problems are not solved with simple solution but with right abstract and mindset
+You cannot solve all the problems at once but batch by batch or small by small
+The key to do ecosystem is to connect systems of individuals and organizations and manage the complementarity among other sectors of production
+Freedom in addition to opportunity will create the needed local values
+Today's competition is more about ecosystem and ecosystem than about company and company,
+If you want to improve your company, you must be part of an international ecosystem
+Competition and cooperation are integral parts of an ecosystem
+The value is usually more important than the algorithm or its design.
+The organizational structure is responsible for job loss and not the AI
+Artificial intelligence is very important, however, if you cannot create value from an artificial intelligence application, then you have nothing.
+Complex problems require several levels of abstraction to be solved
+Autonomous, independent decisions can be made in an ecosystem
+Components are modularized to create value for other components in an ecosystem
+All organizations in an ecosystem must agree about power, role differentiation and flows.
+No one plays solo in an ecosystem
+Artificial intelligence is all about mindset change for your community to benefit from it
+Mindset involves the abstractions that are more important to an individual, which he/she believes are true
+You can not create value in a community if you are not thinking of solving complex problems because simple solutions will never work out.
+The adoption of artificial intelligence is a complex problem, so we should learn and endeavour to know how to solve complex problems
+Solving a complex problem using artificial intelligence is all about creating value using an Ecosystem and does not end in only developing artificial intelligence algorithm
+You can not create value using old business models but rather, we should create value using Ecosystem models with a change of mindset for solving a complex problem.
+To achieve significant results, you must build your own ecosystems
+An ecosystem consists of a group of people or organisations that come together with a common goal of getting things done and creating value.
+Ecosystems exonerates someone from the hierarchical mindset thereby providing the necessary requirements for autonomous organizations to independently deliver products and services
+People who set the rules in an ecosystem are referred to as the keystone.
+Artificial intelligence project should be approached collaboratively and cooperatively
+Artificial intelligence must change our mindset to operate beyond our region but rather to create ecosystem
+The spontaneous growth in technology has paved way for ecosystem method in artificial intelligence
+Standard rule for participation must be set for members of the ecosystem
+Roles of members in the ecosystem must be clearly stated
+Ecosystem in artificial intelligence add values to business
+Artificial intelligence ecosystem makes business interest stronger and reduced cost of production. It expands business coverage
+Ecosystem in artificial intelligence improves quality of service to customers
+A good fit between your company's purpose for existing and the ecosystem's purpose for existing must exist
+Leverage assets - pool existing skills, industrial experience, and data to create and test algorithms and conduct the deep neural network research needed to build intelligent machines
+Leverage networks - promote lateral collaboration between industry, government, and academia, nationally, regionally, and globally
+Edge computing - brings computation and storage closer to the devices where it is being gathered, rather than relying on a central location that can be thousands of miles away
+Cloud computing - data centres that deliver computing services (i.e., infrastructure as a service, platform as a service, software as a service, function as a service) over the Internet
+IoT devices - devices connect to the Internet to deliver data to the cloud or receive data from the cloud
+To exist, an organisation needs to be a part of one or more ecosystems
+You need business ecosystems for artificial intelligence to create value for customers.
+Ecosystems lead to competitiveness, this leads to constant improvement and good products
+Competition is between ecosystems not among companies
+Innovation ecosystems anchored on technical frameworks are being built to enable actors to effectively develop new artificial intelligence-related technologies.
+To build a human - machine interface, a company or organisation needs good leadership and to build trust for artificial intelligence systems and reskill employees
+A mindset is a set of abstractions, assumptions, methods, or notions that you use to solve complex problems
+For an ecosystem to be distinct, it should enable organizations to make decisions about design, price, delivery, and improvements without a hierarchical governance.
+For an ecosystem to be a good ecosystem, there must be a good fit between your company's purpose for existing and the ecosystem's purpose for existing
+The three types of ecosystem are business ecosystem, innovation ecosystem and platform ecosystem.
+Your algorithms must leverage the five machine learning approaches, one of which includes the application of the idea of genomes and DNA in the evolutionary process to data processing.
+Your ability to mimic human intelligence is what makes your artificial intelligence applications useful.
+One of the processes of artificial intelligence transformation requires that you secure the talented people who can fill the gaps between the tools available and what is needed.
+No organization exists in a vacuum, it is always a part of an ecosystem.
+Your competition in artificial intelligence is a competition of ecosystem vs ecosystem, not company vs company.
+You must Integrate into ecosystems that which can complement the company's artificial intelligence strategy.
+A singular gargantuan infrastructure initiative may not be better than a series of separate, smaller infrastructure, tax, and transportation initiatives that improved existing systems. One elevated highway plan is not as good as radical fairness from hiking up gas taxes, aggressive agendas on public spaces, improved transportation, and improved architecture.
+There will not be miracles or silver bullets that will solve all problems at once. New technologies may also just exacerbate problems. It will be a step by step, incremental process of improving upon existing tools and systems.
+Having a technology is not enough, you need it contextualized with a problem to be solved that someone wants solved - create opportunity.
+We should consider how technology affects relationships before only focusing on its novel status and abilities.
+We let powerful people dictate how technology affects regular people without understanding what they need. Break down what a city needs to improve its value to everyday citizens. See if existing systems with minor tweaks that before can taking a risky gamble at unproven, novel technology.
+Change in mindset is possible due to AI. A valuable ecosystem can be a reality.
+Artificial intelligence is built based on people's mindset and can be make lives easier.,
+Companies can simply ask artificial intelligence to determine price based on demographics effect.
+Artificial intelligence is helpful at every stage of business operation i.e. from employing to dispatching goods.
+An ecosystem is to be made where every people can get desired goods at relevant price.
+The most important part of solving a problem with artificial intelligence is not in building the algorithm but in identifying the core of the problem.
+Complex problems are not solved by technical skills alone.
+Advancements in technology makes belonging to an artificial intelligence ecosystem dynamic and required.
+Identifying and Ai ecosystem that you fit into helps to see better the challenge and problem that artificial intelligence is required to solve in our city or environment
+Ecosystem mindset is the key to collaborative competitiveness.
+Having the right mindset is the best and excellent way in creating values in your community.
+Competition is always a good thing; it forces us to do our best.
+Building a structured strong ecosystem lead to a strong significant influence and value in a society.
+Creative and innovative minds are key to developing and improving an ecosystem.
+Embrace new technology when describing your new ideas.
+Using the right mindset to solve complex problems produces the best solutions
+In a good ecosystem you can access external capabilities, technologies, and skills
+For the best coordination there should be agreement among power, roles, and flows
+Data funnel makes data useful and usable
+Business ecosystem comprises of building, deploying, and scaling of artificial intelligence applications
+Mindset helps to solve complex problem and through it, we get ideas to implement the ecosystem.
+For the improvement and development, ecosystem helps to create a model with perspective ideas.
+Trust development is important for network organization that helps the customer to connect and give their interest to us
+Participation helps to achieve ideas in the growth of the ecosystem
+While artificial intelligence community is built, interaction with other people or clients focuses on the platform ecosystem for improvisation
+Ecosystem problem needs data resources for the solution which helps to develop the ecosystem.
+Today we are dealing with complex problems that need solutions with the right mindset.
+An ecosystem is composed of three main components: network organization, value proposition and, competitive and cooperative relationships.
+Three main type of ecosystems: business, innovation, and platform.
+Algorithms are very important, but you need to co develop with others and create value with them, otherwise you have nothing.
+Synthetic data can be a valuable resource in situations where data is difficult to get.
+Complex mindsets are required to solve complex problems.
+On modern days, successful business models are the ones that have high diversity on its ecosystem and are well organized together by rules that keep coordination between them.
+Every participant must know the rules that shape ability to influence, role differentiation and flows in the ecosystem of which they are a part
+Good artificial intelligence ecosystems have been built by creating or attracting organizations that they need to their environment to work together as complementary parts.
+Having the support from governance to develop artificial intelligence solutions can significantly boost the artificial intelligence growth of the ecosystems.
+Given this covid-19 pandemic, companies, people, I believe everyone is trying to acquire new competitive advantages to thrive in the 4.0 industrial revolution
+Like data science that has it pillars on programming, business knowledge and statistics knowledge. Ecosystem where artificial intelligence is applied, has its modules that need to perform well on artificial intelligence algorithms
+For most developing countries, private companies are usually spending more on enhancing productivity in its value chain and relying on data analysis. However, before to jump into an artificial intelligence ecosystem, we need to evaluate first the possible use cases and domains to operate.
+Business all over the world are constantly facing day basis problems. Given those problems, solutions take place, and this is where artificial intelligence can prove its importance. So, it is a matter of the ecosystem, not the companies!
+As world is facing and starting to go beyond 4.0 technologies, artificial intelligence is giving rise to sustainability. However, we must be aware of developing necessary skills in our people so they can have enough expertise to implement an artificial intelligence transformation
+Provides the standards or base requirements for autonomous organizations to produce complex interdependent products or services.
+Creativity and innovation to allow members to reach new customers and lower the cost of production.
+Each company that leads in artificial intelligence anchors its own specialized ecosystems.
+Leverage assets and pool existing skills, industrial experience, and data to create and test algorithms and conduct the deep neural network research needed to build intelligent machines.
+Edge computing brings computation and storage closer to the devices where it is being gathered, rather than relying on a central location that can be thousands of miles away.
+Create value by solving complex problems
+Today, competition is between ecosystems, not between companies
+Complex problems can be solved by creating ecosystem by identifying abstractions of the problems
+Opportunities should answer who are you working with, set the keynotes that defines the structure, the criteria, and the process
+Ecosystem defines the area of your structure that builds your trust, differentiate you and define your flows
+Three types of ecosystems: business ecosystem, innovation ecosystem and platform ecosystem
+Business ecosystem are led by a leader. Innovation ecosystem are led by group. Platform ecosystem requires core technology to be integrated with other technologies.
+Earn power by influencing others
+The value for artificial intelligence comes with combination of data resources, algorithm and with co-development
+To be successful in creating value earn your power, differentiate your role, and access flows in your ecosystem
+To create value for companies, cities, and universities you must have the right ecosystem.
+Organisations can make decisions without the need of a hierarchy of power within an ecosystem.
+The right ecosystem for your organisation is one in which you grow and create value.
+A company will not succeed in an ecosystem where their purpose is not a good fit.
+An ecosystem must have common goals and purposes.
+Value is created when capabilities are grouped into a solution and trained for a specific task.
+Competition lies between ecosystems and not individual companies.
+Every organisation is a part of the ecosystem in one way or other
+Integration into ecosystems which complement artificial intelligence systems is necessary
+The main competition is between the accepted ecosystems
+The process of artificial intelligence transformation plays a huge role, so its implementation is very crucial
+Ecosystems results into competitiveness which is a must for having increment in value
+Choice of ecosystems plays a vital role in growth of the value of that specific company
+The right mindset is always required to create value.
+Creating value in the era of the Fourth Industrial Revolution is facilitated by the ecosystem mindset and it is the right mindset to have these days.
+The rules of engagement are the mindset change in an ecosystem, and they are established by a keystone or lead firm.
+The coordination mechanism in an ecosystem is characterized by agreements on power, differentiated roles, and flows.
+The three types of ecosystems are business, innovation, and platform ecosystems.
+We must participate or build ecosystems to achieve significant results.
+An ecosystem provides autonomy and freedom to make decisions.
+Companies in ecosystems create significant value.
+It is important to have right mindset to create value because competition is more about ecosystem vs ecosystem, than company vs company
+There are several benefits of an ecosystem such as accessibility , accelerate learning process to effectively collaborate, create new ways to address ,human needs and desires, most stable and resilient than traditional hierarchical structures , harness creativity and innovation to allow members to reach new customers , address  environmental challenges
+There are three types of ecosystems: business ecosystem, innovation ecosystem, platform ecosystem.
+Value is created by bundling capabilities into a solution and then trained on data for task.
+There are five steps to the process for artificial intelligence transformation: business case for source of value , data funnel , what and who you need , workflow that captures value from artificial intelligence , organization ready for human-machine collaboration.
+Mindset is the combination of variables that we use to solve complex problems.
+Mindset is important because we need the right mindset to solve complex problems.
+Involvement of many stakeholders can create better ecosystem models.
+A good ecosystem must be a good fit for the existing purposes of company and the ecosystem
+If you can not access customers, you can not make money.
+The most valuable but not documented asset is data resources.
+If we see artificial intelligence as a tool to solve complex problems, we create value, generate revenue ethically and advance our economy.
+To solve complex problems, we need to think in abstract terms: identify the things that matter and drop the others.
+We cannot solve complex problems on our own. We need to codevelop. Organizations that pursue the traditional business model will lose out.  
+Autonomous organizations produce complex interdependent products and services. Organizations complement each other and create the final product together.
+In the new ecosystem, power must be earned. Those who have the power will set the rules.
+Innovation comes when we think across departments and with new partners.  
+Complex problems require complex solutions.
+Try hard to build an ecosystem. This will enable to success.
+Nowadays, innovative ecosystems are pushed by new technologies. So, stay tuned for new advances in tech.
+Use artificial intelligence to transform the current ecosystem of your company.
+Compete as an ecosystem.
+artificial intelligence project is about changing mindset, if cannot change your mindset, you are not going to benefits from the artificial intelligence project
+Data is everywhere but be careful with the one you feed your artificial intelligence system
+The first step in developing a successful digital system is to understand the link between people, processes, and technology
+An artificial intelligence system can be used to create competitive advantage, but every artificial intelligence system can create a competitive advantage
+We can use artificial intelligence system to integrate three different ecosystems for firm's strategic advantage.,
+One of the first needs to find a suitable opportunity to build an artificial intelligence system is to fully understand the ecosystem in which we want to implement artificial intelligence.
+After full knowledge of the ecosystem, find a part or need of it that you can change or fix to create value for the ecosystem.
+Change your mindset. Change your view of the ecosystem. Look at problems from different angles. Eventually, you will be able to create value.
+Traditional and old business models with this rapid advancement of technology no longer have a place among successful ecosystems.
+Find a network and use the competition and cooperation between the nodes of this network (such as stakeholders) to create value and build a good ecosystem.
+let organizations make decisions and think about the problem to find a solution for improvements in the ecosystem with a flat organization
+We need to create a coordination mechanism agreement among organizations in the ecosystem about power, differentiated roles, and flows.
+Business ecosystem, innovation ecosystem, platform ecosystem are the types of ecosystems.
+If you want to shape or reshape an industry you should have a good ecosystem for your company.
+Every organization is always a part of an ecosystem.
+A paradigm shift to artificial intelligence-based methodologies is contingent upon sound knowledge and understanding of the procedure
+Good ecosystem forms the basis for competition
+Companies with a very good ecosystem do possess an edge over those with low ecosystem
+Business, innovation, and platform form the three major types of ecosystem for companies
+Business ecosystem deals with companies and how they are affected by their environment
+Innovation ecosystems are novel findings and the agents that influence those findings
+Platform ecosystem has to do with systems and the way agents assemble by its sides making it central
+Ecosystems allows decision making without hierarchical Governance
+An ecosystem is an autonomous organisation that produces a complex structure
+Innovation Ecosystem build intelligent machines through pooled data, skills, and experience
+Platform Ecosystem lays foundation for building strong for smart cities
+A good ecosystem allows easy and clear governance
+Ecosystems are highly competitive within themselves
+The three types of ecosystem include business, innovation, and platform ecosystems.
+Leverage networks promote lateral collaboration between local and global network artificial intelligence in ecosystem improves income to the local businesses
+Good artificial intelligence opportunities are numerous in ecosystems
+Ecosystem mindset is a set of abstractions, assumptions, methods, or notions that we use to solve complex problems
+Competition is more about ecosystem vs ecosystem, than company vs company.
+An ecosystem can provide access to diverse customers and partners, accelerate learning process, create new ways, stable and resilient, harness creativity and innovation, address environmental challenges
+Three types off ecosystems business ecosystem, innovation ecosystem, platform ecosystem.
+Good ecosystem gives you access to external capabilities, technology, skills that you need
+Among the capability component of artificial intelligence is its ability to mimic human intelligence - this is what makes applications useful
+Processes of artificial intelligence transformation viz-a-viz business case for source of value, data funnel, what and who you need, workflow that captures value from AI, organization ready for human-machine collaboration
+To solve complex problems and create significant value, ecosystem mindset is the right mindset.
+Ecosystem is different because it considers close environment for developing artificial intelligence solutions such as design, price, delivery, and improvement with new model independently.
+Ecosystem is unique almost everywhere, which can provide unique knowledge and solutions to problems.
+Business ecosystem is initial analysed for innovation and platform ecosystem to be addressed.
+3D printing and construction automation is a good breakthrough in AI
+To engage in an ecosystem, select favourite part to start, transform opportunity and develop a value blueprint.
+Having ecosystem developed, gives more agile way of taking decisions.
+Coordination mechanisms are needed to manage and lead the ways of performing work in ecosystems
+The problem with that artificial intelligence will make people stay without work is more about the fact that the current organizations are not ready to incorporate the artificial intelligence in their flows.
+Organizations in one ecosystem should agree on what they are going to collaborate and work together and what are the things they will compete on
+Being in ecosystem does not help you to develop your business, you should find and verify your power.
+There are three types of ecosystems like business, innovation, and platform ecosystems.
+Ecosystem mindset is key to competitiveness.
+Basic building blocks of an intelligent system includes Machine vision, Language analysis, Document summarization, Process automation.
+Process for artificial intelligence transformation Business includes case for source of value, data funnel, What and who you need, Workflow that captures value from AI, Organization ready for human-machine collaboration.
+Ecosystem elements are Focal organization, Network, Focal value proposition, orchestrator, formal mechanism for coordinator, hierarchy for differentiated roles and flows.
+Ecosystem, ecosystem, is indispensably short, in a certain space in the nature, biology and environment constitute a unified whole, in which they influence and restrict each other, and are in a relatively stable dynamic equilibrium state within a certain period.
+Artificial ecosystem refers to the ecosystem formed after human intervention and modification. It is determined by the virtuous circle of human activities, natural ecology, and social and economic conditions. The role of human beings in natural ecology is mainly manifested in the development and transformation of nature. Agricultural production has not only changed the species and habits of plants and animals, but also brought about changes in climate, landscape and so on. Natural ecology affects human beings in many ways, including clothing, food, housing, and transportation. Different social systems, relations of production and levels of productive forces restrict people\'s ability to do things and the way they use natural resources, thus profoundly affecting human activities and natural conditions.
+Global co-ordination is needed for ai governance. The automation of decision-making, the reuse of vast amounts of data and the ubiquity of digitisation are driving the global economy and the strategic competitiveness of countries.
+Artificial intelligence is an interdisciplinary field with different risks in different applications, industries, and regions. Moreover, these technologies are rapidly developing and popularizing, and will eventually penetrate every aspect of human life. Existing regulations and traditional regulatory approaches have struggled to cope with this complexity and keep pace with the pace of artificial intelligence. Second, ai governance requires the coordination of ai ethics, norms, policies, industry standards, laboratory practices and engineering solutions. Meanwhile, the fierce competition for global artificial intelligence leadership cannot be ignored. Competition promotes innovation, but also weakens the sense of responsibility, leading to the concentration of artificial intelligence resources and the imbalance of power. Finally, differences in culture, political interests and government systems will lead to conflicts between the norms and regulations of artificial intelligence governance in different countries, thus exacerbating tensions between countries and further undermining the international cooperation that needs to be realized.
+Three types of ecosystems 1.Business ecosystem - company and the community of organizations, institutions, and individuals that affect the company and the company's customers and suppliers 2.Innovation ecosystem - innovation or new value proposition and the agents that support it, including various ecosystem leaders3.Platform ecosystem - platform and how agents organize around it
+To create values an organization requires the right mindset
+The right mindset is needed to solve complex problems
+An ecosystem mindset will create significant value and produce better solutions to solving complex problems than a traditional mindset that uses old business models
+We must transit from old business models to a new ecosystem model
+The ecosystem model is best because, it gets as many players involved as possible and these players interact according to the set rules the keystone shapes for the Ecosystem
+Keystones are ecosystem architects or orchestrators who are responsible for setting participation rules, shape the ecosystem process development, makes sure people abide by rules and attract new members
+Agreement between organisations in an ecosystem is mainly about: power, differentiated roles and flows
+There are three ecosystem types: business, innovation, and platform
+It is better to join an existing ecosystem that suits you than working on your own
+You can transform used cases in an ecosystem to a good artificial intelligence opportunity for your company
+Make sure you focus on the organisation that provides the artificial intelligence components you require
+No organisation exists in a vacuum: become part of an Ecosystem
+Beyond planning and implementation, artificial intelligence development has a lot to do with having the right mindset
+Existing solutions are not worth recreating in an ideal artificial intelligence ecosystem
+Trying to pioneer artificial intelligence as a lone participant is extremely dangerous in today's world,
+It is extremely essential to attract other key players in the artificial intelligence ecosystem to be assured of success
+Major technology companies that provide artificial intelligence services have other key players that are participants in their production process
+Creating value is the major purpose of developing and deploying artificial intelligence applications
+Complex problems need deliberate and persistent thinking and work to be solved.
+The greater interdependence of people from around the world makes problems more complex than ever before
+Solving problems and creating significant value is not about what an individual or organisation thinks or believes, it is about actively participating in or building the right ecosystems to function through
+Wrong abstractions in solving complex problems produce unsustainable solutions if any.
+The impact of technological progress is so high and unpredictable that ecosystem thinking is invaluable
+Collaboration with different players, while harnessing diversity is key to solving complex problems
+Build an ecosystem to create value and propose solutions to problems.
+Taking part in the development of the ecosystem helps to achieve significant results in other aspects.
+In recent times, the new business model is fast replacing the old ones because it is focused on the ecosystem and therefore, more people and environment friendly.
+Through an ecosystem, the accessibility of unlimited knowledge, skills and expertise is made possible through the power of technology and networking
+Ecosystems can be classified into business, innovation, and platforms ecosystem. These classifications focus on the community or an organization, the value created, and how agents organize around it, respectively.
+To create value, we need the right mindset.
+Get rid of the unnecessary stuff, and extract only the important things to solve the problem.
+Solve a complex problem using the right mindset.
+Give detailed solutions and deploy them.
+Be part of an ecosystem that provides Insight, knowledge, and Innovation.
+An ecosystem is an organisation that gets something done.
+Transform use cases into good artificial intelligence opportunity.
+Collaborate with others to shape or reshape an industry.
+Keep up with other ecosystem members.
+Set participation criteria, standards, and rules.
+The ecosystem approach allows for autonomy and independence which were not previously possible
+Simple solutions cannot solve complex problems
+Solving problems is not about developing algorithms but creating value for things we care about through ecosystems
+Nobody can solve complex problems alone; we need to learn to work with people both as collaborators and competitors
+The hierarchy system of traditional systems is archaic because it is slow and inefficient in this new fast-paced, technology-enabled world.
+The right mindset is the ecosystem mindset
+A country that has not found a way for its universities and companies to collaborate, cannot innovate or create new things
+A right mindset such as ecosystem mindset is needed to create value to cities, companies, and universities
+Business ecosystem, innovative ecosystem and platform ecosystem are the three major types of ecosystems that requires artificial intelligence
+While a platform ecosystem supplies artificial intelligence chip and data centre solutions to cities, companies and universities, business and innovative ecosystems support artificial intelligence applications workflow stages and edge-cloud integration respectively
+A company will lose its' value or incur financial lose when it cannot access customers; does not take part in value flow; maintain low power; have no role differentiation and maintain poor fit with the purpose of ecosystem
+Every institution or company is part of an ecosystem, none exist alone
+Integrate the ecosystem that develops markets, creates new businesses, and complements the company's artificial intelligence strategy.
+Assume a business ecosystem as a solution to a business problem, to organize to realize a specific value proposition.
+For innovative ideas to be efficiently generated, developed, tested, and supported for development impact, they require the coordinated, collaborative action and resources.
+Success demands business leaders understand how platform ecosystems are reshaping traditional organization hierarchies and building new values.
+While every company experiences the process of artificial intelligence adoption in a different way, there are certain challenges which can be controlled by becoming a part of the ecosystems.
+Creation of the right abstraction comes from the right mindset
+We cannot survive without being part of a large ecosystem.
+Ecosystem is a network of organisations and individuals.
+A complex problem can be solved from the right abstraction.
+Value is created with algorithm and by working with others.
+Complex problems cannot be solved with simple solutions.
+We cannot deal with everything.
+Artificial intelligence allows us to add value to the ecosystem and allows us to make decisions on our own.
+Artificial intelligence provides the mechanisms to create value.
+The business ecosystem, innovation ecosystem and platform ecosystem are all needed to create value using artificial intelligence
+The ecosystem has rules of which module to operate can be selected and take value print to earn power or capacity.
+Change in mindset is the way to move forward.
+Earlier solutions cannot be used to solve today's complex problems.
+Complex problem can be solved not by following steps but by observing, hiding unnecessary stuff, creating right abstractions, building models, and detailing models further.
+Technology is progressing at a fast pace, evolved, very unexpected and used vastly
+To improve businesses and universities they need to be in an ecosystem that creates value.
+The ecosystem model involves many players as possible and make it attractive to work.
+To create an ecosystem, 1. Build a Network of organisation (investors, experts, sponsors, government agencies); 2. Agree on value to create, and 3. Compete and collaborate
+Types of Ecosystem- 1. Business ecosystem- artificial intelligence leaders have a specific ecosystem based on their needs; 2. Innovation ecosystem- Identify the problem and work backwards to solve the problem; and 3 Platform ecosystem- Control the entire ecosystem like Home automation, build smart cities, have an entire platform on the ecosystem
+Mindset refers to a conglomerate of elements including the abstractions, assumptions, methods, or notions which we use to solve complex problems
+The correct mindset is crucial in developing value
+Building ecosystems is crucial to achieve results
+A distinct ecosystem allows for organisations to make key decisions without a hierarchial governance model
+An ecosystem allows for diverse customers to interact with the business, accelerates the learning process, creates new ways to solve problems and harnesses creativity and innovation
+There exist three types of ecosystems which vary from business, innovation, and platform ecosystems
+Solution spaced that have arrived with new technology developments include supply chain optimization, digital twins, automation and 3-D printing, artificial intelligence, and analytics.
+Always look for compress knowledge rather than learning whole book.
+It is important to have the right mindset based the ecosystem.
+An individual must be always ready for adapting the change and plan according to it.
+It is important to identify right ecosystem first and then working on it.
+Companies can be categorized by the ecosystem(s) of which they are part
+Building trust is very important and plays a major role in the development of a company.
+Artificial intelligence is about mindset change
+Create an artificial intelligence leader for one community or company, but keep in mind that complex problem often requires complex solution
+We do not start searching for the algorithms to create something valuable with them. We start with problem and then we search for the solution
+Artificial intelligence is here, it is not the future
+We do not make money as our father is doing it or as grandfather, making money changes overtime and artificial intelligence is the next change
+Assemble a cross-functional team to develop the ecosystem model
+Value-creation is a primary objective in thriving artificial intelligence opportunities for the local community
+Top-level management is deprived of the latest artificial intelligence technology. Therefore, we need a new structure which is a combination of inside and outside the ecosystem
+Artificial intelligence applications must be co-developed with artificial intelligence leaders and suppliers.
+Abstractions allow one to change their mindset from thinking about a hierarchical business model into an evolving ecosystem model to create value
+Ecosystem model enables a company to become autonomous. It helps shape the company\'s roles and flow in the network of players (customers, suppliers, investors, competitors, etc.) for higher value proposition delivery.
+A keystone sets the rules of engagement in ecosystems.
+The ecosystem has three types: business ecosystem, innovation ecosystem, and platform ecosystem.
+Business ecosystem is mostly a single company & its network of people creating & selling products/services.
+Innovation ecosystem usually has a group of leaders creating new ideas and values at different geographical locations.
+Platform ecosystem has a platform and organization of agents around it.
+In a business ecosystem, you can keep your core values in the middle and add complementary artificial intelligence tasks to it.
+Innovation enables you to combine complementary artificial intelligence assets to your core to bring new value propositions.
+The steps for the artificial intelligence transformation process are 1. Business case for source of value, 2. Data funnel, 3. what and who you need, 4. workflow that captures value from AI, and 5. Organization ready human-machine collaboration.
+The right mindset can effectively help us create value.
+Companies in the ecosystem can create tremendous value for us.
+There are many changes from the old business model to the new business model.
+Coordinated investment and uncoordinated investment can create value.
+The new structure is the ecosystem.
+Creating a good artificial intelligence opportunity not only means just developing an artificial intelligence algorithm but it is more about creating value using the ecosystem and using artificial intelligence as a tool.
+To solve a complex problem, we should hide unnecessary elements so that we can focus on the core.
+If you cannot sense the ecosystem you cannot create wealth out of your business.
+In the ecosystem model, we must work with others to successfully create value and wealth.
+In the Ecosystem model, we modularize the components and then make them complementary, in this way we allow every complementor to make their own decision.
+Types of Ecosystems. 3 types - Business/Innovation/Platform
+Ecosystem Mindset. Participate in Ecosystem as opposed to competing against companies.
+Companies in ecosystems create value
+To create an effective artificial intelligence opportunity, you must have the right mindset to deal with complex problems
+Providing simple solutions for complex problems is unrealistic.
+ Good artificial intelligence opportunities focus less on the algorithms and more on solving complex problems and creating value
+An ecosystem mindset is the right mindset
+Good artificial intelligence opportunities cannot be solved just by observation.
+An ecosystem is distinct because it enables organizations to make decisions about design, price, delivery, and improvements without a hierarchical governance, provides the standards or base requirements for autonomous organizations to produce complex interdependent products or services
+Standards or base requirements shape the hierarchy, roles, and flows among organizations for a value proposition to materialize.
+Three types of ecosystems: Business ecosystem (company and the community of organizations, institutions, and individuals that affect the company and the company's customers and suppliers), Innovation ecosystem (innovation or new value proposition and the agents that support it, including various ecosystem leaders), and Platform ecosystem (platform and how agents organize around it)
+The features that make an ecosystem a good ecosystem for your company include: 1) You can access more and better customers, 2) There is a good fit between your company's purpose for existing and the ecosystem's purpose for existing, 3) You can shape more and better good artificial intelligence opportunities, 4) You can access external capabilities, technology, skills that you need, 5) You can collaborate with others to shape or reshape an industry, 6) You can leverage to scale rapidly and securely, 7) Rely on a greater degree of resilience, 8) You can keep up with other ecosystem members, and 9) Governance is clear
+Conditions under which your company in an ecosystem makes no money: 1) Can not access customers; 2) Poor fit with purpose of ecosystem; 3) unable to influence others; 4) No role differentiation; 5) Not part of value flow; and 6) out of sync -i.e., too fast or too slow
+Ecosystem elements include: 1) Focal organization - your organization; 2) Network - organizations that interact with focal organization and themselves; 3) Focal value proposition - system level goal, common desired results; 4) Orchestrator - organization that arranges or directs the formal mechanism to coordinate the ecosystem; 5) Formal mechanism for coordination - management of standards and interfaces, platform governance, intellectual property rights, and other contractual forums; 6) Hierarchy for differentiated roles - power levels; and 7) Flows -  merchandise, financial, information, value, and risk flows
+To create value, use the Ecosystem Mindset with new business models to solve complex problems.
+An ecosystem model includes many players and interacts with passion in creating value for a company
+The three types of ecosystem are business ecosystem, innovation ecosystem and platform ecosystem.
+The best support of artificial intelligence innovation platform is universities who helps in shaping the cognitive projects with new technologies and innovative mindset in solving complex problems.
+Companies should begin the scaling-up process by considering whether the required integration is even possible or feasible by integrating existing space (incremental solutions), new space (transforming solutions) and innovative space (define ways of expanding).
+We need a focal value proposition where we can collaborate and compete.
+Hierarchy system is no longer working today. Ecosystem of today is open, and you can deal openly with other people.
+Each local community should have a local artificial intelligence to improve its locality.
+I must have my own mindset to engage the ecosystem.
+Earn the power to make decisions.
+In recent years, in the field of environmental protection, on the basis of digital earth, geographic information system, global positioning system, environmental management and decision support system and other technical systems, the formation of a large digital system engineering - digital environmental protection. Digital green environmental protection as the main purpose, according to the global, national, provincial and municipal all levels environmental monitoring management requirements, such as information, network, automatic control, communication and other kinds of technology applications and integrated into the same system platform for data collection, information processing, decision support, information sharing and other services, achieve the digital environmental protection.
+With smarter planet concept, hope more fully application of various kinds of human perception data intelligent technology for all kinds of environmental information, integration, analysis, in order to make more demand for environmental management and conservation, intelligent, scientific response in time, in a more elaborate and dynamic way to realize wisdom of the environmental management and decision making. Smart environmental protection is the extension and expansion of digital environmental protection.
+Current data show that in 2018, the market size of China\'s intelligent environmental protection industry is 52.1 billion yuan, with a year-on-year growth of 10.85%. The eight-year compound annual growth rate from 2010 to 2018 was 19.31 percent. In 2018, China\'s industrial revenue in the first three quarters of environmental protection totaled 279.4 billion yuan, 389.6 billion yuan and 391 billion yuan, respectively.
+Sensor technology: Environmental sensors mainly include soil temperature sensors, air temperature and humidity sensors, evaporation sensors, rainfall sensors, lighting sensors, wind speed and direction sensors, etc. The collected data types include air temperature and humidity, soil temperature and humidity, CO2 concentration, light intensity, water temperature, ammonia nitrogen in water, dissolved oxygen concentration and pH value, etc.
+Internet of Things technology: Wireless ZigBee technology is adopted among various environmental data collectors as well as between collectors and routes, enabling free networking. More advanced communication technologies such as GPRS and 3G are used for communication between routes and data center servers.
+When you start having mindset to solve complex problems around you using set of abstractions, methods, or rules, you start developing ecosystem mindset which is required to use artificial intelligence to create value.
+In the ecosystem model, decision making is not limited to single role or person, rather it is distributed between different people and roles.
+Keystone plays important role when coordinating with different organizations or members withing same or different ecosystem. It establishes set of rules, standards, or criteria to have successful co-ordination.
+Initially any organization, to scale or create a value, should first start by participating and co-ordinating with other organizations of existing ecosystem and later on, that organization either can be part of one or more ecosystems or can create its own ecosystem.
+Using an artificial intelligence in an ecosystem is not about creating an algorithm, rather it is about using artificial intelligence to create a value to your organization, society, community, and city.
+Right mindset is key to create value, use the ecosystem mindset
+Companies that are part of ecosystems perform better
+Co-ordinating and consulting with firms in an ecosystem helps companies have single focal point and unique value proposition
+Companies can access a lot of resources when part of eco-system in comparison to working alone or not being part of ecosystem
+Ecosystem should be carefully chosen, and the role of the company needs to be positioned right to gain the maximum advantage of the ecosystem.
+Mindset is an abstraction used to develop complex problem
+New business model requires an ecosystem to succeed and new ecosystem models need many players who interact based on the ecosystem rules
+Ecosystem connects organizations, customers, suppliers, investors, distributors, government agencies, expects, assemblers, sponsors, and a host of other key players
+Ecosystem gives liberty and open space to individual without the traditional hierarchical system of governance
+Ecosystem provides the standards or base requirements for autonomous organizations to produce complex interdependent products or services
+Innovation ecosystem promotes lateral collaboration between industry, government, and academia, nationally, regionally, and globally
+To engage in an ecosystem, mode of operation needs to be selected which may include technical tasks, business function services, data, assemblies, products, connect agents, systems plus other innovations
+A problem without well-defined steps to solve is a complex problem
+Value proposition of business ecosystem is clear and different from innovative ecosystem. Innovation ecosystem comprises leaders from whole varieties of organizations and companies or participants.
+Universities, companies, or cities need to engage in innovative ecosystems
+A change mindset is best suited for an ecosystem mindset
+Collaboration and partnership are needed to make the best of opportunities
+Find the ecosystem in which your opportunities fit and engage it
+Competition and cooperation keep an ecosystem going
+An ecosystem is key to deploying artificial intelligence opportunities
+The idea of the artificial intelligence ecosystem is to create value. Create a value system that better serves society and mankind. Distinguishing the types of artificial intelligence ecosystem helps us better understand and create value. Let us more clearly distinguish the priority of ecosystem value.
+Accurately find the right fit to create an artificial intelligence ecosystem. Value location. Flexible use of the seven elements in the artificial intelligence ecosystem. Transform relevant organizations into organizations that can create artificial intelligence ecological value according to local conditions.
+We must change the original thinking model of creating value. Adopt more brand-new, comprehensive, and intelligent artificial intelligence ecological thinking to create value in line with the new era. Innovate the way the company operates and create value with a new artificial intelligence architecture.
+The new artificial intelligence ecosystem requires new rules and standards. The artificial intelligence ecosystem has brought great convenience and benefits to our social life, and it has also attracted more and better customer groups for the company, further expanding the company\'s business depth and breadth.
+Starting from the simplest case, bit by bit is transformed into an integral part of the artificial intelligence ecosystem. Doing a good job of detailed customer research will help us to have a deeper understanding of customer needs. Practical cases can inspire greater team enthusiasm for conversion operations.
+We must manage the new artificial intelligence ecosystem created. 5G and cloud computing have greatly promoted the speed of the entire new ecosystem. The new core technology can make more people feel the convenience of the high-tech era.
+The greater the diversity in any artificial intelligence model, the higher its relevance is.
+Artificial intelligence ecosystems are the future of our planet
+There must be radical change in mindset towards what an ecosystem stands for in AI.
+Communities must learn the act of collaboration, as collaboration is the key to vast innovations.
+The vision of an artificial intelligence ecosystem does not have to be clear from scratch; most artificial intelligence ecosystems start off as unfinished projects then blossom
+Artificial intelligence ecosystem is still quite a niche
+Companies in ecosystem create a significant artificial intelligence value
+Ecosystems enables organization to make critical business decisions smoothly
+Companies that leads in artificial intelligence anchors its own specialized ecosystem
+Innovative ecosystems increase adoption of artificial intelligence and drives artificial intelligence initiatives
+Platform ecosystems deploy artificial intelligence models, provide data centre solutions, and build intelligent cities
+To make a change we need to change our mindset, we need to start thinking in ecosystems instead of individuals. That is why big companies build it themselves.
+Society will be divided in the next few years because the development of new technologies and most of them do not even know they exist. They replace everything we know at a fast pace, so our responsibility is to encourage the population to take the challenge of drive this change.
+Artificial intelligence algorithms have an important place but not as important as the value they intend to create. If the given algorithm does not produce any real value to the customer is useless. Also, most of the algorithms are not built with the customer in mind, that is why nowadays we see the damage that social media is doing to our communities.
+Development of new business models will take over the old ones, we need new ways of creating value because the technology has changed, and the problems have become more complex with it. With artificial intelligence we can tackle them and find a way to solve problems that 50 years ago we would only dream of.
+Do not intend to create a new ecosystem from zero, instead join to one, grow and then you can create your own one. We are late if we want to create this communities now it is impossible to compete with the companies that exists.
+Using the right mindset is important.
+Ecosystem mindset is the right mindset.
+Ecosystem mindset is key to competitiveness.
+Three types of ecosystems exist: business, innovation, and platform.
+Compared with old business models, new ecosystem models have more advantages and can create more value
+New ecosystem models attract more people and are more marketable, such as TikTok
+The tide of technological progress is inevitable
+Competition is ecosystem vs ecosystem, not company vs company
+Develop expertise in implementing process of artificial intelligence transformation
+Artificial intelligence is about mindset change. Mindset is a set of abstraction important to you, Mind set is a set of abstraction and assumption you believe that are true
+If you want significant results you must build your own ecosystems
+Companies in ecosystems creates significant value company with traditional mindsets do not
+Ecosystem is where organizations come together to get something done
+Ecosystems allows us to decide of your own
+Global community should have local initiative on ai innovation
+To create value, we need the right mindset.
+An ecosystem enables organizations to make decisions about design, price, and improvements without a hierarchy
+Benefits of an ecosystem includes access, accelerate, create, stable, harness, address
+Engaging in an ecosystem is very important to be a part of value creation.
+It is necessary to become a part of ecosystem to overcome challenges artificial intelligence faces.
+Develop expertise in implementing process of artificial intelligence transformation.
+Organizations are not extricating an incentive from their client created information. It is hard on the grounds that people are unpredictable social creatures. We have a set-up of items and calculations to empower the cycle of savvy commitment. Our foundation incorporates driving open source parts to empower robotized forecast.
+The terrific desire of scholars contemplating biology and development is to find the legitimate and numerical guidelines driving the world\'s biodiversity at each level from hereditary variety inside species to contrasts between populaces, networks, and biological systems.
+This aspiration has been hard to acknowledge in extraordinary part due to the unpredictability of biodiversity. Hypothetical work has prompted an intricate snare of hypotheses, each having non-evident ramifications for different speculations. For example, the ongoing acknowledgment that hereditary variety includes a lot of worldly and spatial stochasticity powers hypothetical populace hereditary qualities to consider abiotic and biotic factors commonly held for biological system biology.
+This interconnectedness may require hypothetical researchers to receive new procedures adjusted to reason about enormous arrangements of speculations. Mathematicians have tackled this issue by utilizing formal dialects dependent on the rationale to oversee hypotheses.
+Nonetheless, hypotheses in environment and development are not numerical hypotheses, they include vulnerability. Late work in Artificial Intelligence in crossing over rationale and likelihood hypothesis offers the occasion to manufacture rich information bases that consolidate rationale\'s capacity to speak to complex numerical thoughts with likelihood hypothesis\' capacity to show vulnerability.
+We depict this half and half dialects and investigate how they could be utilized to fabricate a brought together information base of speculations for environment and development.
+We can use and Develop Like in Automotive:  Speech recognition, computer vision, connected cars, virtual assistants, self-driving cars, Autonomous RC Plane with artificial intelligence etc. , For make it better and easy to use , like if you talk about speech recognition sometimes it's working properly with different language except English so we can work on that.
+We can use and Develop Like in Finance: For Fraud detection; robot-trading (things are happening now in milliseconds).
+We can use and Develop Like in Data security: Intrusion detection, data privacy, malware fighting, etc.
+We can use and Develop Like in Healthcare and medicine: Advanced and fast diagnostics And We can make artificial intelligence for patient so they can send & share there medical health problem with doctor and then doctor can suggest them what is right for them.
+We can use and Develop Like in Sales and marketing: User experience (UX); bots and Take feedback also to improve the customer experience with the help of artificial intelligence.
+Ecosystems need right abstracting and fundamental mindset to create solution of complex problems which can create value.
+An ecosystem is a network of people / organization for providing value proposition / purpose through competition and collaboration. Thus, an ecosystem helps organization to make better decision, get insights and improvise on various parameters to produce better understanding and helps to increase the value proposition.
+There are three interlinked ecosystem viz. Business ecosystem, Innovation Ecosystem & Platform Ecosystem which has multiple levels like having access, accelerate the learning process, to create new ways for needs & designing stable and resilient structure, harness creativity, innovation and better address of social & environmental challenges.  
+Business ecosystem to build, deploy and scaling artificial intelligence algorithm and is used in multiple organizations and is used in multiple layers through applications, services, infrastructure, industry and R&D viz IOT, Machine Learning, Automations, Mobile Internet, upgrade manufacturing, and intelligent vehicle platform.
+To engage in ecosystem, we need to be a part of the used cases and make it a good artificial intelligence opportunity, we need to have the rules, construct value blueprint to make a good ecosystem. To construct a value blueprint, we need to identify customer, the focal product, supplier, intermediaries, complementors, risk associated with, improve sub-ecosystem, and update the same.
+Mindset is a set of abstractions, assumptions, methods, or notions that we use to solve problems. To create a value, we need the right mindset
+Ecosystem is a network of organizations involved in the delivery of a focal value proposition through both competition and cooperation
+Technology advancement results in IoT devices, 5G, cloud computing, edge computing, face, and voice recognition etc.
+Competition is ecosystem versus ecosystem, not company versus company
+Power is the capacity to influence others
+Artificial Intelligence is about change of mindset.
+Mindset is a concept that is made up of abstractions, assumptions, and notions which we believe are true and are used to solve complex problems.
+A right mindset is required for value creation.
+An ecosystem mindset is highly necessary because technology is moving fast and has a broad impact.
+To improve your organization, it is best to be part of the ecosystem.
+An ecosystem is a group of organizations that come together to achieve an objective.
+An ecosystem is distinct when there is freedom and independence to make decisions.
+Adopt an ecosystem mindset to create value.
+There are three types of ecosystems: business, innovation, and platform.
+Competition today is ecosystem vs ecosystem.
+The company's artificial intelligence strategy is what guides the ecosystem to integrate into.,
+Earn the power, differentiated role and access to flows in your ecosystem.
+To solve a complex problem, we need to have the right abstraction and we cannot create value except we are ready to deal with complex problem.
+We can\'t deal with everything about a problem, we are going to have to deal with a very small part of it and then we are going to use those few elements that we have abstracted to solve the complex problem.
+You cannot create significant value as an individual, company or organization without being a part of a larger ecosystem.
+Ecosystem provides you the opportunity to be able to share ideas by helping you collaborate and at the same time compete with other individuals to create value.
+Ecosystems is not about the technology; it is about bringing people from different parts of the world to create significant values.
+To assimilate the right mindset, you need to assimilate the right abstractions
+Competition today is not company vs company but ecosystem vs ecosystem
+The large hierarchical organization model is no longer as sustainable today as it was 40 years ago
+When the key players in your ecosystem are diverse, you benefit more
+Your role in an ecosystem is dependent on the value you are adding to it
+Trust, commitment, and expertise are vital skills you need to function effectively in an ecosystem
+Customers are a vital part of the ecosystem
+With artificial intelligence taking over everything, smart homes, smart cities etc. what is the security implication because, we are yet to combat the security flaws of the IoT. security threat landscape is evolving at a rapid pace.
+Imagine the problem we might encounter when a whole city is being taken over, the security doesn\'t really matter, machine cant work without human intervention, so human error is always a threat which gives room for social engineering exploits, if your home is being hacked for example, technically all your gadget have been taken over, if the victims is a worker of a company which allows BYOD, then imagine the endless possibilities risk in this scenario
+As the world begins to fully adopt artificial intelligence, we need to put security measures in place right from the development stage as so much depends on it. The way we live and do things are being replaced or rather done by machine.
+We need to narrow the usage of artificial intelligence in our personal life in order to be on a safer side, by adopting all technological inventions, our privacy is being compromised and our way of live and the way we think is being defined by the technologies and the inventors. We expose all our day to day activities by using smart devices, as the manufacturer often spy on users
+Ecosystem mindset, the key to competitiveness of artificial intelligence companies is very essential in solving complex problems and it provides values to the construction companies so we need to put measures in place to integrate into artificial intelligence that would be Ecosystems friendly
+Abstractions are important to solve complex problems
+Competitions today is not between companies but between ecosystems
+To create a new ecosystem, it is important to harness diversity
+Unlike in hierarchical governance, more players get to make decisions in an ecosystem
+To gain power in an ecosystem, people need to gain trust of the members of the ecosystem
+We need to have the right mindset, ecosystem mindset, for the problem. We need to learn to integrate our company\'s artificial intelligence system into an ecosystem that can create value.
+There are three ecosystem types -- business ecosystem, innovation ecosystem, and platform ecosystem. Each ecosystem has its own utility. For example, business ecosystem can build, deploy, and scale artificial intelligence applications, innovation ecosystem can support edge-cloud integration, and platform ecosystems can supply artificial intelligence chips and data centre solutions.
+To engage in an ecosystem, we should find out those good use cases and then turn them into good artificial intelligence opportunities.
+The invention of the Internet of Things, 5G, cloud computing, edge computing and other technologies gives us more advantages to build an artificial intelligence ecosystem and more confidence to face more difficult challenges.
+Man-machine collaboration is essential. In this collaborative organization, good leadership, mutual trust, and retraining are all crucial guarantees.
+It is important to have the right mindset to create value
+We should invest in those assets and capabilities that are rare, valuable, and hard for competitors to imitate
+The three different types of ecosystems provide various benefits to the organization such as access, accelerate, create, stable, harness and address
+Business ecosystems, innovation ecosystems and platform ecosystems are the different types of ecosystems
+One can leverage to scale rapidly and securely and can access more and better customers for the company with good ecosystem
+Ecosystem mindset is key to competitiveness
+The artificial intelligence mindset change is very important
+The right mindset creates value
+Mindset is about abstractions that are important to you
+To create value; be prepared to deal with complex problems
+Complex problems do not get solve with simplicities
+artificial intelligence is about creating value; to create value you need to use ecosystems
+Because creating value for society is a complex problem, application of artificial intelligence to solve complex problems like waste disposal is necessary.
+Creating this value and solving complex problems require the synergy of different ecosystems at different level for successful value creation.
+Creating the enabling environment using the ecosystems models will result in significant value creation.
+Applying artificial intelligence in the ecosystems will lead to a speedy growth and faster turnover.
+Transition to an ecosystem form of business to increase innovation, ideas generation and the possibility of a faster and better deliverables.
+New ecosystem models can get more people involved and meet their needs
+Three types of ecosystems will be integrated in the future, like an application can both support artificial intelligence workflow stages and artificial intelligence innovation
+More applications and services based on artificial intelligence will emerge
+Innovation ecosystem is a good way to use artificial intelligence to develop regional inequality in Asia
+The chaos of differentiated roles can ruin the ecosystem
+Ability to mimic human intelligence is what makes artificial applications popular
+Artificial intelligence has the potential to influence global economic and military competition. However, in the great enthusiasm for investing in and researching artificial intelligence, most countries have not paid enough attention to the importance of artificial intelligence ecosystems.
+In addition to strengthening investment in artificial intelligence basic research and artificial intelligence technologies required by the government, the government should also actively build artificial intelligence ecosystems to ensure that the government has the basic capabilities to apply artificial intelligence
+Artificial intelligence ecosystems include artificial intelligence talent and knowledge management, the ability of institutions applying artificial intelligence to acquire, process, and utilize data, the technological base to ensure AI\'s level of trust, safety, and reliability, and the investment environment and policy framework needed to develop AI.
+Especially in national security and intelligence services, only with a strong artificial intelligence ecosystem can artificial intelligence technologies be better utilized and quickly translated into military capabilities.
+An artificial intelligence ecosystem can be defined as a group of artificial intelligence systems that are coupled together to a certain extent to achieve a common goal. This is usually achieved by placing artificial intelligence systems in real-time and historical scenarios and generating intelligence from them.
+Complementarity types: generic, unique and supermodular.
+There are three types of ecosystems: business, innovation, and platform
+Ecosystem is key to competitiveness.
+Integrate artificial intelligence powered insights into work processes.
+Apply a test and learn method for scaling
+To derive positive benefits for ourselves, universities, companies, and communities from the huge advancement in AI, we must open and think differently. Change in our mindset is necessary. Thus, artificial intelligence is about mindset change.
+To add value to local communities using AI, we must deal with complex problems. Solving complex problems with simple solutions cannot develop an artificial intelligence leader in a community.
+The best way to solve a complex problem is by creating the right abstraction. And to create a right abstraction, a right mindset is needed. Therefore, to create value, right abstraction is required.
+The adoption of artificial intelligence is a complex matter. artificial intelligence is not only about developing algorithms but about creating value. To create value, an ecosystem mindset is required.
+Our universities, companies and communities cannot survive without being part of an ecosystem. To achieve significant value and improvement to our communities, ecosystems must be built. Thus, competition is not between companies but between ecosystems.
+Technology standard for broadband cellular networks designed to connect virtually everyone and everything together including machines, objects, and devices
+Elements of a process for artificial intelligence transformation include: 1. Business case for source of value, 2. Data funnel, 3. What and who you need, 4. Workflow that integrates value from AI, 5. Organization ready for human-machine collaboration.
+Earn the power, differentiated role and access to flows in your ecosystem
+Artificial intelligence enforces the integration of collaborators and that creates a better workplace in a company.
+Artificial intelligence can make a product increase its price because it adds more value to the customers.
+Artificial intelligence improves the skills on collaborators needed to fulfill the need of the customers and stakeholders within a company or startup.
+A company part of an artificial intelligence ecosystem not always is going to improve their poor conditions, it is needed a good strategy and focus.
+The algorithm is only a part of the process of creation an artificial intelligence ecosystem, an important factor is the value creation.
+It is necessary to change the mentality with which we observe the problems to be able to solve them in an optimal way and that generates value in our society.
+Technology as artificial intelligence can help solve problems, but only if we are able to identify them correctly, in all their complexity.
+We must create new business models that adjust to new technologies and new problems, otherwise we will continue with the problems of the past.
+In creating a new ecosystem structure, we must identify the parts that are within the system as well as those that are outside.
+Some ecosystems in which artificial intelligence can be implemented can be done either in business or in innovation.
+New systems are being enhanced by new cloud services that help us to implement new projects more efficiently.
+Every organization is part of at least one ecosystem.
+Competition exists between ecosystems, not between companies.
+The key to competition is the ecosystem mindset.
+Business, innovation, and platform are three different ecosystems.
+The company's artificial intelligence strategy needs the support the ecosystem of which the company is a part.
+Technological progress is ruthless.
+No organization is independent, it is always a part of an ecosystem.
+Ecosystem mindset is important to competitiveness
+There are three types of ecosystems, business, innovation, and platform.
+Integrate into ecosystems which can complement the company's artificial intelligence strategy.
+Create value using ecosystem models - the ecosystem mindset is the right mindset
+Different from old business models which will be set up industry barriers to produce products that are difficult to be imitated by competitors. The new ecosystem models get as many players involved in your ecosystem as possible, seeking both competition and cooperation.
+Companies that participate in or build ecosystems achieve more than companies that use old business models
+The new structure ecosystem enables final customers to buy focal firm product and complement from individual complementors
+Three types of ecosystems exist, business ecosystem, innovation ecosystem, and platform ecosystem
+Ecosystem Mindset: The right mindset is needed to identify good artificial intelligence opportunities and to make things work. Understanding this will help me identify complex problems that needs artificial intelligence solution.
+Value: There is need to create value for companies. A solution without value to concerned stakeholders is of to use. The use of ecosystem creates better designs, deliveries, and autonomous services so customers keep coming back
+Right abstraction: Abstraction helps to solve complex problems
+Artificial intelligence is as big deal as technology.
+Ecosystem can be business ecosystem, innovation ecosystem, or platform ecosystem
+Network is essential in local value. There is need to identify with necessary network.
+Keystone or lead firm: Checks standards and rules of ecosystem as well as shapes process of ecosystem development
+You cannot do it alone. Ecosystem is needed to create value for cities using artificial intelligence 
+To create value for cities, there must be a paradigm shift from the traditional mindset to the ecosystem mindset
+Ecosystem approaches eliminate hierarchy governance in organisation which can most often be a cog in the wheel of making progress
+Leading artificial intelligence companies champion their own specialized ecosystems
+Ecosystems provides resilience
